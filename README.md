@@ -11,7 +11,7 @@ You can see it working here: http://wb.britishmuseum.org/by_volume
 
 ## Install
 
-You can install the Gem from the command line with:
+You can install the [Gem](https://rubygems.org/gems/dimension_drawer) from rubygems.org with the command line with:
 
 ```bundle install dimension_drawer```
 
