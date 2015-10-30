@@ -29,7 +29,7 @@ To render the SVG, call `.cabinet_projection` method. This takes an optional `an
 
 By default, units will be included within the SVG, but these can be turned off within an options hash:
 
-```DimensionDrawer.new(435.41, 341.40, 102.4, 400, 320, {exlclude_units: true}).cabinet_projection```
+```DimensionDrawer.new(435.41, 341.40, 102.4, 400, 320, {exclude_units: true}).cabinet_projection```
 
 ## Styling
 
