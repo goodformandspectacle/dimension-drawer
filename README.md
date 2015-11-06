@@ -37,6 +37,6 @@ The SVG element has a class of `dimension-view`, the cube wireframe elements hav
 
 ## Contributing
 
-There are lots of ways this code could be improved, and more features that could be added. If you have particular requirements, get in touch – we’re curious to see how this code might be used.
+There are lots of ways this code could be improved, and more features that could be added. If you have particular requirements, get in touch – we’re curious to see how this code might be used. The easiest thing to do is probably to [add an issue](https://github.com/goodformandspectacle/dimension-drawer/issues) with your question, suggestion or bug report.
 
-You can contribute directly by forking the repository and submitting a Pull Request.
+You can also contribute directly by [forking the repository](https://help.github.com/articles/fork-a-repo/) and (submitting a Pull Request)[https://help.github.com/articles/using-pull-requests/].
