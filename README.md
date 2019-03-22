@@ -44,3 +44,24 @@ You can also contribute directly by [forking the repository](https://help.github
 ## In the wild
 
 We were thrilled to see the dimension-drawer used by the Minneapolis Institute for the Art! Here's an example display: http://collections.artsmia.org/art/22774/wrestler-tagonoura-tsurukichi-utagawa-kunisada-ii
+
+### Javascript version
+
+There's now a javascript version, with a slightly different look drawn with javascript on canvas.
+
+## Usage
+
+Just drop in the [js/tennisBall.js](https://github.com/goodformandspectacle/dimension-drawer/tree/master/js/tennisBall.js) file and then include it on your [html page](https://github.com/goodformandspectacle/dimension-drawer/tree/master/index.html). Then call with...
+
+```javascript
+const tb = new TennisBall(document.getElementById('tennisBall'))
+tb.drawObject(height, width, depth)
+```
+
+...you can also use...
+
+```javascript
+tb.drawObject(height, width)
+```
+
+...if you only have height and width, the code will add a tiny (1mm) depth automatically.
