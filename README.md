@@ -45,7 +45,7 @@ You can also contribute directly by [forking the repository](https://help.github
 
 We were thrilled to see the dimension-drawer used by the Minneapolis Institute for the Art! Here's an example display: http://collections.artsmia.org/art/22774/wrestler-tagonoura-tsurukichi-utagawa-kunisada-ii
 
-### Javascript version
+# Javascript version
 
 There's now a javascript version, with a slightly different look drawn with javascript on canvas.
 
